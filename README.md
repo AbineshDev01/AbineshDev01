@@ -17,7 +17,7 @@
 
 <br>
 
-- This is my Porfolio <a href="https://abinesh.vercel.app"> <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/128/348ceb/external-link--v1.png" alt="external-link--v1"/> </a>
+- This is my Porfolio <a href="https://abinesh.vercel.app" target="_blank"> <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/128/348ceb/external-link--v1.png" alt="external-link--v1"/> </a>
 - I’m currently working as Freelance Software Engineer
 - A passionate Self-taught Back-end Engineer
 - Currently learning Full Stack Web Development by Self
