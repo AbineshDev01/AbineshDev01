@@ -49,7 +49,6 @@
    <img width="45" height="45" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
    <img width="43" height="43" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" style="margin-left: 4px;"/>
    <img width="45" height="45"  src="https://spring.io/img/projects/spring-cloud.svg" alt="spring-cloud" style="margin-left: 4px;"/>
-   <img width="45" height="45" src="https://projectreactor.io/assets/img/reactor.png" alt="project-reactor" style="margin-left: 4px;"/>
    <img width="45" height="45" src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf" style="margin-left: 2px;"/>
    <img width="45" height="45" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" style="margin-left: 2px;"/>
    <img width="45" height="45" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" style="margin-left: 2px;"/>
