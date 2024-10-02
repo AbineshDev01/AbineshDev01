@@ -59,7 +59,6 @@
 
     <img width="45" height="45" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services" />
     <img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github" style="margin-left: 2px;"/>
-    <img width="50" height="40" src="https://vercel.com/mktng/_next/static/media/logo-vercel-logotype-dark.e8c0a742.svg" alt="github" style="margin-left: 2px;"/>
     
 <br>
 
