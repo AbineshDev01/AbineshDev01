@@ -121,6 +121,18 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbineshDev01&bg_color=000000&color=ffffff&line=1a5fb4&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
+<br>
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/abineshr8525?theme=dark&font=IBM%20Plex%20Mono)
+
+</div>
 <br>
 
 -----
