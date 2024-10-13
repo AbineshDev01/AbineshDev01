@@ -36,72 +36,91 @@
 
 - **Languages**:
     
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>   
     
 - **Frameworks**:
 
-   <img width="45" height="45" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-   <img width="43" height="43" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" style="margin-left: 4px;"/>
-   <img width="45" height="45"  src="https://spring.io/img/projects/spring-cloud.svg" alt="spring-cloud" style="margin-left: 4px;"/>
-   <img width="45" height="45" src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf" style="margin-left: 2px;"/>
-   <img width="45" height="45" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" style="margin-left: 2px;"/>
-   <img width="45" height="45" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" style="margin-left: 2px;"/>
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  
 
 <br>
 
 - **Cloud Hosting**:
 
-    <img width="45" height="45" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services" />
-    <img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github" style="margin-left: 2px;"/>
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     
 <br>
 
-- **Softwares and Tools**:
+- **Tools I Use**:
 
-    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="docker"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/>
-    <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="margin-left: 2px;"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea" style="margin-left: 2px;"/>
-    <img width="45" height="45" src="https://img.icons8.com/officel/80/java-eclipse.png" alt="java-eclipse" style="margin-left: 2px;"/>
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+    ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+    ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+    ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+    ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+    ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
+
+- **IDE and Editors**:
+
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  
 
 <br>
 
 - **Database Tools**
 
-    <img width="40" height="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
-    <img width="45" height="45" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" style="margin-left: 7px;"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql" style="margin-left: 4px;"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
 
 - **Linux**
 
-    <img width="45" height="45" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/centos.png" alt="centos"/>
-    <img width="45" height="45" src="https://img.icons8.com/color/48/alps.png" alt="alps"/>
+    ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+    ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 <br>
 
 
 - **Extras**:
 
-    <img width="45" height="45" src="https://img.icons8.com/ios/50/FFFFFF/markdown--v2.png" alt="markdown--v2"/>
-    <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/json.png" alt="json"  style="margin-left: 4px;"/>
-    <img width="53" height="48" src="https://img.icons8.com/arcade/64/xml.png" alt="xml"/>
-    <img width="45" height="48" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/console.png" alt="console"/>
-
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Windows Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+    ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 </p>
 
