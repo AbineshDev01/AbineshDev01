@@ -147,7 +147,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
 <br>
 
-<div align="center">
+<div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abineshr8525?theme=dark&font=IBM%20Plex%20Mono)
 
