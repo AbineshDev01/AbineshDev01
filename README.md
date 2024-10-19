@@ -129,6 +129,9 @@
 
 -----
 
+<a href="https://app.daily.dev/abineshcoder01"><img src="https://api.daily.dev/devcards/v2/DsiVmehtA86TI7SFlZzdw.png?r=gex&type=default" width="356" alt="Abinesh's Dev Card"/></a>
+
+
 <br>
 
 
